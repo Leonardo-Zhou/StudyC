@@ -3,4 +3,4 @@ project(StudyC C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(StudyC test_github.c)
+add_executable(StudyC compute_square_root.c)
